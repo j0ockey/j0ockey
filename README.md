@@ -11,10 +11,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cyber%20security%20enthausiast;Always%20learning;%20Always%20hunting!!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🌱 I’m currently learning backend development
 - 🏹 I’m currently learning Web security
-- 🔭 I’m currently working on Automation
-- 👯 I’m looking to collaborate on BugBounty Automation Scripts 
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
